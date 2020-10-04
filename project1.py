@@ -1,4 +1,5 @@
-print("\n\n\nWelcome to the most interesting quizzzzzzzzzzzzzzzz, The ShinChan Quiz\n")
+print("\n\n\nWelcome to the most interesting quiz, The ShinChan Quiz\n")
+#questions with their respective options, choosing the correct option will lead you to another question.
 print('''
 Q1 - what is the full name of shinchan?
 a - suzuki Nohara
@@ -29,7 +30,7 @@ c - Japan
 	elif answer == "c":
 			print(" correct!! :), you have got the right option! Moving ahead ")
 			print('''
-Q3 -What is the name of his dog?
+Q3 -What is the name of his pet dog?
 a - Sheero
 b - puppy
 c - michan
@@ -91,7 +92,7 @@ c - Principal sir
 							if answer == "a":
 								print(" correct!! :), you have got the right option! Moving ahead ")
 								print('''
-Q8 -What does Shinchan love to eat??
+Q8 -What does Shinchan love to eat?
 a - Dora cakes
 b - Choco chips
 c - Prawns
@@ -104,7 +105,7 @@ c - Prawns
 								elif answer == "b":
 									print(" correct!! :), you have got the right option! Moving ahead ")
 									print('''
-Q9 - Which is Shinchan's favourite cartoon show??
+Q9 - Which is Shinchan's favourite cartoon show?
 a - Doraemon
 b - Super Fairies
 c - Action Kamen
